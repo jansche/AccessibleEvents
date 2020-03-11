@@ -20,6 +20,8 @@ Classic broader-interest meetups on evenings. Smaller one or two day conferences
 Characteristics: For meetups, typically 2-3, sometimes 4 in-person speakers. For single track conferences 5-7 per day. Multi-track confeences vary with speakers. Speaking slots on conferences are typically between 45 min and 75 min. Speaking slots on meetups are 20 min to 45 min. Venues are often chosen by availability, but tend to be re-occurring. Presentation / live demos / video playback through laptop of presenter on projection wall. Audio and display connectors vary, as room equipment allows. Seating options are theater style and seldom other than that.
 
 ### Large In-Person Events (500+ attendees)
+Mainly Conferences, single and multi-track
+Characteristics: 
 
 ### Massive In-Person Events (2000+ attendees)
 
@@ -55,4 +57,9 @@ Opposite to On-Site, remote is everyone who is not physically present.
 ### Content
 Content can be a talk or a session, a slidedeck, a recording or video, audio, a transcript. A conversation between attendees or speakers / staff and attendees is generally not considered content, although it can contain meaningful things. <3
 
+
+
+
+## Credits and Inspiration
+Some of the content has been inspired by this link collection: https://coronavirustechhandbook.com/remote
 
