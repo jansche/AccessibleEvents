@@ -6,8 +6,12 @@ How to extend and transform events to happen online, in parts or entirely, and p
 
 ## Main Categorization
 ### Small In-Person Events (<50 attendees)
+Classic regional niche meetups.
+Characteristics: Typically 2-3, sometimes 4 in-person speakers. Speaking slots are between 20 minutes and 1h. Venues are often chosen by availability. Presentation / live demos / video playback through laptop of presenter on projection wall or large display(s). Audio and display connectors vary, as room equipment allows. Seating options vary between theater style to workshop tables. Seldom grouped tables.
 
 ### Medium In-Person Events (<500 attendees)
+Classic broader-interest meetups on evenings. Smaller one or two day conferences.
+Characteristics: For meetups, typically 2-3, sometimes 4 in-person speakers. For single track conferences 5-7 per day. Multi-track confeences vary with speakers. Speaking slots on conferences are typically between 45 min and 75 min. Speaking slots on meetups are 20 min to 45 min. Venues are often chosen by availability, but tend to be re-occurring. Presentation / live demos / video playback through laptop of presenter on projection wall. Audio and display connectors vary, as room equipment allows. Seating options are theater style and seldom other than that.
 
 ### Large In-Person Events (500+ attendees)
 
