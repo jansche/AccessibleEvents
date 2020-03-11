@@ -28,20 +28,25 @@ Characteristics: For meetups, typically 2-3, sometimes 4 in-person speakers. For
 ### Large Hybrid Events
 
 
+
 ## Definitions
 
 ### Events
-This collection of practices focuses mainly on tech community events, like conferences, user group meetings, sprints, meetups et al. When using the term "event", we refer to this 
-
+This collection of practices focuses mainly on tech community events, like conferences, user group meetings, sprints, meetups et al. When using the term "event", we refer to this type of events that are most common in the tech industry.
 
 ### Accessibility
+Removing barriers for each and every individual to participate without the need to ask for support.
 
-### online
+### Online
+Happening in the digital space. For content, online can be both live and on-demand.
 
-### on-site
+### On-Site
+Being physically present on the venue and during the event.
 
-### remote / off-site
+### Remote / Off-Site
+Opposite to On-Site, remote is everyone who is not physically present.
 
 ### Content
+Content can be a talk or a session, a slidedeck, a recording or video, audio, a transcript. A conversation between attendees or speakers / staff and attendees is generally not considered content, although it can contain meaningful things. <3
 
 
