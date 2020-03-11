@@ -12,11 +12,11 @@ When these ideas have been tried out by event orgas, staff and/or attendees, the
 Classic regional niche meetups.
 Characteristics: Typically 2-3, sometimes 4 in-person speakers. Speaking slots are between 20 minutes and 1h. Venues are often chosen by availability. Presentation / live demos / video playback through laptop of presenter on projection wall or large display(s). Audio and display connectors vary, as room equipment allows. Seating options vary between theater style to workshop tables. Seldom grouped tables.
 
-ACCESSIBILITY GUIDANCE: link
+[ACCESSIBILITY GUIDANCE](categories/small_in-person_events/ACCESSIBILITY_GUIDANCE.md)
 
-IN TESTING: link
+[IN TESTING](categories/small_in-person_events/IN_TESTING.md)
 
-RAW COLLECTION OF IDEAS: link
+[RAW COLLECTION OF IDEAS](categories/small_in-person_events/RAW_COLLECTION_OF_IDEAS.md)
 
 
 ### Medium In-Person Events (<500 attendees)
