@@ -1,17 +1,17 @@
 # Accessible Events
 
-## Background
+### Background
 How to extend and transform events to happen online, in parts or entirely, and provide a maximum of accessibibility to attendees, online and on-site? This repo is intended as a knowledge base to help organisers make their events more accessible. It was started in times of COVID-19/coronavirus (March 2020), when many events were struggling with in-person participation and got cancelled due to the risk of infection and further spread of the virus. Nevertheless, this time of crisis is also an opportunity to make in-person events more accessible to remote attendees (digitally live) and post-event consumption (digitally on-demand) of content.
 
-## Intention
+### Intention
 Many events lack accessibility in one way or the other. Some of these lackings are intentional, others are collateral and many are unintentional and due to unknowingness. This collection of tipps and guidance aims at providing insights and show paths to avoid unintentional exclusion and increase readiness and willingness among organisers to allow online participation and contribution. This collection should ideally show you what it takes to extend in-person events to the digital space and why it's worth the effort. 
 
-## How To Contribute
+### How To Contribute
 If you are the owner, a contributor, member of staff or attendee (in-person or remote) of an event, please contribute by opening an [ISSUE](/issues) with the idea for increased accessibility. This [ISSUE](/issues) will then go into the RAW COLLECTION OF IDEAS of the [categorized event(s)](/categories). 
 When these ideas have been tried out by event organizers, staff and/or attendees, they are being validated and rated in the IN TESTING collection. After a successful proof of concept (>x attendees/staff members/orgas attest positive feedback), the idea becomes a best practice and is listed in ACCESSIBILITY GUIDANCE of an event category.
 
 
-## Work In Progress
+### Work In Progress
 As stated before, this repo was created in times of the coronavirus crisis, and is per definition work in progress. If you have ideas for restructuring or otherwise improving this repo, feel free to open an ISSUE or directly get in contact with the owner of this repo.
 
 ---
