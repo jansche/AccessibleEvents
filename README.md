@@ -19,7 +19,7 @@ As stated before, this repo was created in times of the coronavirus crisis, and 
 ## Main Categorization
 ### Small In-Person Events (<50 attendees)
 Classic regional niche meetups.  
- *Characteristics:* Typically 2-3, sometimes 4 in-person speakers. Speaking slots are between 20 minutes and 1h. Venues are often chosen by availability. Presentation / live demos / video playback through laptop of presenter on projection wall or large display(s). Audio and display connectors vary, as room equipment allows. Seating options vary between theater style to workshop tables. Seldom grouped tables.  
+ _Characteristics:_ Typically 2-3, sometimes 4 in-person speakers. Speaking slots are between 20 minutes and 1h. Venues are often chosen by availability. Presentation / live demos / video playback through laptop of presenter on projection wall or large display(s). Audio and display connectors vary, as room equipment allows. Seating options vary between theater style to workshop tables. Seldom grouped tables.  
  *Breaks:* For evening events, there is often one break between sessions and a larger networking slot after the sessions.   
  *Food & Beverages:* Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar.   
 
