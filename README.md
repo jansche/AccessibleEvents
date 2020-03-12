@@ -13,6 +13,7 @@ When these ideas have been tried out by event organizers, staff and/or attendees
 
 ## Work In Progress
 As stated before, this repo was created in times of the coronavirus crisis, and is per definition work in progress. If you have ideas for restructuring or otherwise improving this repo, feel free to open an ISSUE or directly get in contact with the owner of this repo.
+
 ---
 
 ## Main Categorization
@@ -22,7 +23,7 @@ Classic regional niche meetups.
  Breaks: For evening events, there is often one break between sessions and a larger networking slot after the sessions. 
  Food & Beverages: Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar. 
 
-[ACCESSIBILITY GUIDANCE](categories/small_in-person_events/ACCESSIBILITY_GUIDANCE.md ':include')
+[ACCESSIBILITY GUIDANCE](categories/small_in-person_events/ACCESSIBILITY_GUIDANCE.md)
 
 [IN TESTING](categories/small_in-person_events/IN_TESTING.md)
 
