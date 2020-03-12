@@ -13,7 +13,7 @@ WHO has to commit to it?
 
 Example: 
 NAME: Implement video streaming for remote attendees.
-BENEFICARIES: People who can't make it in-person are still able to see the session. Beneficial for mobility impaired folks, sick people, people interested but not in a distance to travel.
+BENEFICIARIES: People who can't make it in-person are still able to see the session. Beneficial for mobility impaired folks, sick people, people interested but not in a distance to travel.
 TODO: Set up camera, use wifi on site, use a streaming service, make people aware of recording in progress, get speakers ok for being streamed, set up audio to be captured into stream (additional microphone).
 TOOLS: Teams Meeting
 RESPONSIBILITIES: Meetup Owner, volunteers 
