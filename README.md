@@ -7,6 +7,8 @@ How to extend and transform events to happen online, in parts or entirely, and p
 If you are the owner, a contributor, member of staff or attendee (in-person or remote) of an event, please contribute by dropping ideas for increasing accessibility into the respective RAW COLLECTION OF IDEAS of the categorized event. 
 When these ideas have been tried out by event orgas, staff and/or attendees, they are being validated and rated in the IN TESTING collection. After a successful proof of concept (>x attendees/staff members/orgas attest positively), the idea becomes a best practice and is listed in ACCESSIBILITY GUIDANCE of an event category.
 
+---
+
 ## Main Categorization
 ### Small In-Person Events (<50 attendees)
 Classic regional niche meetups.
@@ -23,21 +25,70 @@ Characteristics: Typically 2-3, sometimes 4 in-person speakers. Speaking slots a
 Classic broader-interest meetups on evenings. Smaller one or two day conferences.
 Characteristics: For meetups, typically 2-3, sometimes 4 in-person speakers. For single track conferences 5-7 per day. Multi-track confeences vary with speakers. Speaking slots on conferences are typically between 45 min and 75 min. Speaking slots on meetups are 20 min to 45 min. Venues are often chosen by availability, but tend to be re-occurring. Presentation / live demos / video playback through laptop of presenter on projection wall. Audio and display connectors vary, as room equipment allows. Seating options are theater style and seldom other than that.
 
+[ACCESSIBILITY GUIDANCE](categories/medium_in-person_events/ACCESSIBILITY_GUIDANCE.md)
+
+[IN TESTING](categories/medium_in-person_events/IN_TESTING.md)
+
+[RAW COLLECTION OF IDEAS](categories/medium_in-person_events/RAW_COLLECTION_OF_IDEAS.md)
+
+
 ### Large In-Person Events (500+ attendees)
 Mainly Conferences, single and multi-track
 Characteristics: 
 
+[ACCESSIBILITY GUIDANCE](categories/large_in-person_events/ACCESSIBILITY_GUIDANCE.md)
+
+[IN TESTING](categories/large_in-person_events/IN_TESTING.md)
+
+[RAW COLLECTION OF IDEAS](categories/large_in-person_events/RAW_COLLECTION_OF_IDEAS.md)
+
 ### Massive In-Person Events (2000+ attendees)
+
+[ACCESSIBILITY GUIDANCE](categories/massive_in-person_events/ACCESSIBILITY_GUIDANCE.md)
+
+[IN TESTING](categories/massive_in-person_events/IN_TESTING.md)
+
+[RAW COLLECTION OF IDEAS](categories/massive_in-person_events/RAW_COLLECTION_OF_IDEAS.md)
 
 ### Small Online Events (<200 attendees)
 
+[ACCESSIBILITY GUIDANCE](categories/small_online_events/ACCESSIBILITY_GUIDANCE.md)
+
+[IN TESTING](categories/small_online_events/IN_TESTING.md)
+
+[RAW COLLECTION OF IDEAS](categories/small_online_events/RAW_COLLECTION_OF_IDEAS.md)
+
 ### Medium Online Events (<1000 attendees)
+
+[ACCESSIBILITY GUIDANCE](categories/medium_online_events/ACCESSIBILITY_GUIDANCE.md)
+
+[IN TESTING](categories/medium_online_events/IN_TESTING.md)
+
+[RAW COLLECTION OF IDEAS](categories/medium_online_events/RAW_COLLECTION_OF_IDEAS.md)
 
 ### Large Online Events (5000+ attendees)
 
+[ACCESSIBILITY GUIDANCE](categories/large_online_events/ACCESSIBILITY_GUIDANCE.md)
+
+[IN TESTING](categories/large_online_events/IN_TESTING.md)
+
+[RAW COLLECTION OF IDEAS](categories/large_online_events/RAW_COLLECTION_OF_IDEAS.md)
+
 ### Small Hybrid Events
 
+[ACCESSIBILITY GUIDANCE](categories/small_hybrid_events/ACCESSIBILITY_GUIDANCE.md)
+
+[IN TESTING](categories/small_hybrid_events/IN_TESTING.md)
+
+[RAW COLLECTION OF IDEAS](categories/small_hybrid_events/RAW_COLLECTION_OF_IDEAS.md)
+
 ### Large Hybrid Events
+
+[ACCESSIBILITY GUIDANCE](categories/large_hybrid_events/ACCESSIBILITY_GUIDANCE.md)
+
+[IN TESTING](categories/large_hybrid_events/IN_TESTING.md)
+
+[RAW COLLECTION OF IDEAS](categories/large_hybrid_events/RAW_COLLECTION_OF_IDEAS.md)
 
 
 
