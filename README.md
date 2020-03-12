@@ -7,8 +7,8 @@ How to extend and transform events to happen online, in parts or entirely, and p
 Many events lack accessibility in one way or the other. Some of these lackings are intentional, others are collateral and many are unintentional and due to unknowingness. This collection of tipps and guidance aims at providing insights and show paths to avoid unintentional exclusion and increase readiness and willingness among organisers to allow online participation and contribution. This collection should ideally show you what it takes to extend in-person events to the digital space and why it's worth the effort. 
 
 ## How To Contribute
-If you are the owner, a contributor, member of staff or attendee (in-person or remote) of an event, please contribute by opening an ISSUE with the idea for increased accessibility. This ISSUE will then go into the RAW COLLECTION OF IDEAS of the categorized event(s). 
-When these ideas have been tried out by event orgas, staff and/or attendees, they are being validated and rated in the IN TESTING collection. After a successful proof of concept (>x attendees/staff members/orgas attest positive feedback), the idea becomes a best practice and is listed in ACCESSIBILITY GUIDANCE of an event category.
+If you are the owner, a contributor, member of staff or attendee (in-person or remote) of an event, please contribute by opening an [ISSUE](/issues) with the idea for increased accessibility. This [ISSUE](/issues) will then go into the RAW COLLECTION OF IDEAS of the [categorized event(s)](/categories). 
+When these ideas have been tried out by event organizers, staff and/or attendees, they are being validated and rated in the IN TESTING collection. After a successful proof of concept (>x attendees/staff members/orgas attest positive feedback), the idea becomes a best practice and is listed in ACCESSIBILITY GUIDANCE of an event category.
 
 
 ## Work In Progress
@@ -22,7 +22,7 @@ Classic regional niche meetups.
  Breaks: For evening events, there is often one break between sessions and a larger networking slot after the sessions. 
  Food & Beverages: Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar. 
 
-[ACCESSIBILITY GUIDANCE](categories/small_in-person_events/ACCESSIBILITY_GUIDANCE.md)
+[ACCESSIBILITY GUIDANCE](categories/small_in-person_events/ACCESSIBILITY_GUIDANCE.md ':include')
 
 [IN TESTING](categories/small_in-person_events/IN_TESTING.md)
 
