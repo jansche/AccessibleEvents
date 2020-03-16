@@ -17,107 +17,42 @@ As stated before, this repo was created in times of the coronavirus crisis, and 
 ---
 
 ## Main Categorization
-### Small In-Person Events (<50 attendees)
-Classic regional niche meetups.  
+### In-Person Events
+Classic regional niche meetups. Classic broader-interest meetups on evenings. Smaller one or two day conferences. Conferences, single and multi-track. Fairs, fair-like conferences, conventions.    
  **Characteristics:** Typically 2-3, sometimes 4 in-person speakers. Speaking slots are between 20 minutes and 1h. Venues are often chosen by availability. Presentation / live demos / video playback through laptop of presenter on projection wall or large display(s). Audio and display connectors vary, as room equipment allows. Seating options vary between theater style to workshop tables. Seldom grouped tables.  
- **Breaks:** For evening events, there is often one break between sessions and a larger networking slot after the sessions. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/small_in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).     
- **Food & Beverages:** Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/small_in-person_events/ACCESSIBILITY_GUIDANCE.md#FoodAndBeverages).  
-
-[ACCESSIBILITY GUIDANCE](categories/small_in-person_events/ACCESSIBILITY_GUIDANCE.md)
-
-[IN TESTING](categories/small_in-person_events/IN_TESTING.md)
-
-[RAW COLLECTION OF IDEAS](categories/small_in-person_events/RAW_COLLECTION_OF_IDEAS.md)
-
-
-### Medium In-Person Events (<500 attendees)
-Classic broader-interest meetups on evenings. Smaller one or two day conferences.  
- **Characteristics:** For meetups, typically 2-3, sometimes 4 in-person speakers. For single track conferences 5-7 per day. Multi-track confeences vary with speakers. Speaking slots on conferences are typically between 45 min and 75 min. Speaking slots on meetups are 20 min to 45 min. Venues are often chosen by availability, but tend to be recurring. Presentation / live demos / video playback through laptop of presenter on projection wall. Audio and display connectors vary, as room equipment allows. Seating options are theater style and seldom other than that.
- **Keynotes:**  
- **Breaks:**  
-
-[ACCESSIBILITY GUIDANCE](categories/medium_in-person_events/ACCESSIBILITY_GUIDANCE.md)
-
-[IN TESTING](categories/medium_in-person_events/IN_TESTING.md)
-
-[RAW COLLECTION OF IDEAS](categories/medium_in-person_events/RAW_COLLECTION_OF_IDEAS.md)
-
-
-### Large In-Person Events (500+ attendees)
-Conferences, single and multi-track  
- **Characteristics:** One or more keynotes or general sessions (multi-track conferences). Speaking slots are typically between 45 and 75 minutes. Venues are often multi-year contracted, thus giving attendees a recurring experience.   
+ For meetups, typically 2-3, sometimes 4 in-person speakers. For single track conferences 5-7 per day. Multi-track confeences vary with speakers. Speaking slots on conferences are typically between 45 min and 75 min. Speaking slots on meetups are 20 min to 45 min. Venues are often chosen by availability, but tend to be recurring. Presentation / live demos / video playback through laptop of presenter on projection wall. Audio and display connectors vary, as room equipment allows. Seating options are theater style and seldom other than that.
+ One or more keynotes or general sessions (multi-track conferences). Speaking slots are typically between 45 and 75 minutes. Venues are often multi-year contracted, thus giving attendees a recurring experience.   
  **Keynotes:** Presence of an (elevated) stage. Presentations are often complex and rehearsed. Speakers can move freely on stage and control slides individually through a remote control or have coordinated and rehearsed support.  
  **Breakout Sessions:** Rooms for breakout sessions limit the maximum occupancy, typically to max 200. Other characteristics are similar to medium-sized in-person events.  
- **Registration:**  Registration 
- **Breaks:**  
- **Costs:**  
+ **Registration:**   
+ **Breaks:** For evening events, there is often one break between sessions and a larger networking slot after the sessions. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).     
+ **Food & Beverages:** Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#FoodAndBeverages).  
 
-[ACCESSIBILITY GUIDANCE](categories/large_in-person_events/ACCESSIBILITY_GUIDANCE.md)
+[ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md)
 
-[IN TESTING](categories/large_in-person_events/IN_TESTING.md)
+[IN TESTING](categories/in-person_events/IN_TESTING.md)
 
-[RAW COLLECTION OF IDEAS](categories/large_in-person_events/RAW_COLLECTION_OF_IDEAS.md)
+[RAW COLLECTION OF IDEAS](categories/in-person_events/RAW_COLLECTION_OF_IDEAS.md)
 
-### Massive In-Person Events (2000+ attendees)
-Fairs, fair-like conferences, conventions  
+### Online Events 
+Webinars, Online Meetups. Digital Learning Days. Digital conferences.
  **Characteristics:**  
 
-[ACCESSIBILITY GUIDANCE](categories/massive_in-person_events/ACCESSIBILITY_GUIDANCE.md)
+[ACCESSIBILITY GUIDANCE](categories/online_events/ACCESSIBILITY_GUIDANCE.md)
 
-[IN TESTING](categories/massive_in-person_events/IN_TESTING.md)
+[IN TESTING](categories/online_events/IN_TESTING.md)
 
-[RAW COLLECTION OF IDEAS](categories/massive_in-person_events/RAW_COLLECTION_OF_IDEAS.md)
+[RAW COLLECTION OF IDEAS](categories/online_events/RAW_COLLECTION_OF_IDEAS.md)
 
-### Small Online Events (<200 attendees)
-Webinars, Online Meetups
- **Characteristics:**  
-
-[ACCESSIBILITY GUIDANCE](categories/small_online_events/ACCESSIBILITY_GUIDANCE.md)
-
-[IN TESTING](categories/small_online_events/IN_TESTING.md)
-
-[RAW COLLECTION OF IDEAS](categories/small_online_events/RAW_COLLECTION_OF_IDEAS.md)
-
-### Medium Online Events (<500 attendees)
-Digital Learning Days  
- **Characteristics:**  
-[ACCESSIBILITY GUIDANCE](categories/medium_online_events/ACCESSIBILITY_GUIDANCE.md)
-
-[IN TESTING](categories/medium_online_events/IN_TESTING.md)
-
-[RAW COLLECTION OF IDEAS](categories/medium_online_events/RAW_COLLECTION_OF_IDEAS.md)
-
-### Large Online Events (5000+ attendees)
-Digital conferences  
- **Characteristics:**  
-
-[ACCESSIBILITY GUIDANCE](categories/large_online_events/ACCESSIBILITY_GUIDANCE.md)
-
-[IN TESTING](categories/large_online_events/IN_TESTING.md)
-
-[RAW COLLECTION OF IDEAS](categories/large_online_events/RAW_COLLECTION_OF_IDEAS.md)
-
-### Small Hybrid Events
-All events that facilitate both online and offline speakers and attendees in a mix up to 500 total attendees.
+### Hybrid Events
+All events that facilitate both online and offline speakers and attendees in a mix.  
  **Characteristics:**  We haven't seen enough of these events yet to find characteristics that are typical. But these events have live online participants as well as on-site participants. Ideally these two groups should be able to interact and mingle. Or at least both parties should be able to interact with the speakers equally during e.g. Q&A.
 
-[ACCESSIBILITY GUIDANCE](categories/small_hybrid_events/ACCESSIBILITY_GUIDANCE.md)
+[ACCESSIBILITY GUIDANCE](categories/hybrid_events/ACCESSIBILITY_GUIDANCE.md)
 
-[IN TESTING](categories/small_hybrid_events/IN_TESTING.md)
+[IN TESTING](categories/hybrid_events/IN_TESTING.md)
 
-[RAW COLLECTION OF IDEAS](categories/small_hybrid_events/RAW_COLLECTION_OF_IDEAS.md)
-
-### Large Hybrid Events
-All events that facilitate both online and offline speakers and attendees in a mix with more than 500 total attendees.
- **Characteristics:**  We haven't seen enough of these events yet to find characteristics that are typical. But these events have live online participants as well as on-site participants. Ideally these two groups should be able to interact and mingle. Or at least both parties should be able to interact with speakers and exhibitors equally during e.g. breaks, Q&A, networking and collab sessions.
-
-[ACCESSIBILITY GUIDANCE](categories/large_hybrid_events/ACCESSIBILITY_GUIDANCE.md)
-
-[IN TESTING](categories/large_hybrid_events/IN_TESTING.md)
-
-[RAW COLLECTION OF IDEAS](categories/large_hybrid_events/RAW_COLLECTION_OF_IDEAS.md)
-
-
+[RAW COLLECTION OF IDEAS](categories/hybrid_events/RAW_COLLECTION_OF_IDEAS.md)
 
 ## Definitions
 
