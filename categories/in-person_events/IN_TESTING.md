@@ -1,4 +1,4 @@
---
+--  
 *** Live and on-demand captioning ***
 ** WHAT **
 To make content more accessible to those with language barriers, hearing disabilities or any factors that affect understanding of content through listening
@@ -14,4 +14,4 @@ Who has to commit to it? Event organizer
 Reportedly happened here:
 Microsoft Tech Community APAC Online was my example, we took the additional step to correct the automatic transcriptions for accuracy and upload as on-demand videos. We were working with a diverse audience, across multiple languages and hence, saw a strong need for captioning to be provided  
 [Link to YouTube](https://www.youtube.com/playlist?list=PLbWhpxBHr6BVsZDbAcuJd6njEC1c5GjaB)
---
+--  
