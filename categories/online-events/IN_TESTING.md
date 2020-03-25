@@ -70,6 +70,22 @@ Not yet seen actively applied.
 
 ------ 
 
+## Compositing software for the streaming screen [#2](http://github.com/jansche/AccessibleEvents/issues/2)
+#### WHAT 
+You don't have to stick to automatic screen compositions by the streaming or online conf tool you use (where goes the speaker video, is the presentation area wrong).
+#### BENEFICIARIES
+all online attendees can get a better stream, online experience improves.
+#### TODO
+capturing of presentation and speaker video have to go into one compositing machine. A compositor has to take care of the composition of the stream.
+#### TOOLS
+Free OBS Studio software at https://obsproject.com/
+#### RESPONSIBILITIES
+Organisers have to set up the role in their team. Ideally someone with broadcasting experience.
+
+#### Reportedly happened here
+March 2020, during Tax Justice Network's annual 150 persons conference. https://www.taxjustice.net/2020/03/05/lessons-learned-from-organising-our-first-virtual-conference/
+
+------ 
 
 ## <NAME goes here> [#<Issue number>](http://github.com/jansche/AccessibleEvents/issues/<Issue number>)
 #### WHAT 
