@@ -35,6 +35,23 @@ TBD
 
 ------ 
 
+## Enabling parallel discussions [#6](http://github.com/jansche/AccessibleEvents/issues/6)
+#### WHAT 
+During in-person events, people naturally create groups to talk about their topics of interest. It is very difficult to transfer this experience to online meeting. Fortunately, tools like Zoom allow the event organizer to create different rooms as part of the one virtual event. Thanks to that attendees are able to interact with each other and build new relationships.  
+#### BENEFICIARIES
+attendees
+#### TODO
+The organizer creates different thematic rooms as part of the main conference meeting. The attendees can leave the main conference room and join the thematic rooms to discuss with like-minded people topic that they are interested in.  
+#### TOOLS
+Zoom allows organizers to easily create and manage more virtual rooms as part of one conference meeting. Other tools might allow that as well.  
+#### RESPONSIBILITIES
+the event organizing team
+
+#### Reportedly happened here
+<SEEN IN THE WILD goes here>
+
+------ 
+
 ## <NAME goes here> [#<Issue number>](http://github.com/jansche/AccessibleEvents/issues/<Issue number>)
 #### WHAT 
 <WHAT goes here>
@@ -51,3 +68,4 @@ TBD
 <SEEN IN THE WILD goes here>
 
 ------ 
+
