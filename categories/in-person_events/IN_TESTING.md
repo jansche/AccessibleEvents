@@ -1,6 +1,6 @@
 -----
 
-## Live and on-demand captioning #4
+## Live and on-demand captioning https://github.com/jansche/AccessibleEvents/issues/4
 #### WHAT 
 To make content more accessible to those with language barriers, hearing disabilities or any factors that affect understanding of content through listening
 #### BENEFICIARIES
