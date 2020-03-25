@@ -52,6 +52,25 @@ the event organizing team
 
 ------ 
 
+## Tune in to the audience (different styles of presentation in-person vs. online) [#3](http://github.com/jansche/AccessibleEvents/issues/3)
+#### WHAT 
+Online audiences connect better to the speaker and session if the presenter adapts to the online audience in their style of presentation. Less theater style, more aware of being in the immediate focus of the close-up camera and exclusive audio (assuming online attendees are in a quiet environment or on headphones).
+#### BENEFICIARIES
+All online attendees
+#### TODO
+Speaker needs to be aware of differences between presenting online vs offline.
+#### TOOLS
+Speaker skills  
+#### RESPONSIBILITIES
+Organisers (providing learning resources for speakers), speakers
+
+#### Reportedly happened here
+Not yet seen actively applied.
+
+
+------ 
+
+
 ## <NAME goes here> [#<Issue number>](http://github.com/jansche/AccessibleEvents/issues/<Issue number>)
 #### WHAT 
 <WHAT goes here>
