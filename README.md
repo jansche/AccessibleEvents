@@ -28,9 +28,9 @@ Classic regional niche meetups. Classic broader-interest meetups on evenings. Sm
  **Breaks:** For evening events, there is often one break between sessions and a larger networking slot after the sessions. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).     
  **Food & Beverages:** Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#FoodAndBeverages).  
 
-[ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md)
+[ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md) (needs content, please vote for [Issues](issues).)
 
-[IN TESTING](categories/in-person_events/IN_TESTING.md)
+[IN TESTING](categories/in-person_events/IN_TESTING.md) (submit witnessed practices through [Issues](issues).)
 
 [RAW COLLECTION OF IDEAS](categories/in-person_events/RAW_COLLECTION_OF_IDEAS.md)
 
@@ -38,9 +38,9 @@ Classic regional niche meetups. Classic broader-interest meetups on evenings. Sm
 Webinars, Online Meetups. Digital Learning Days. Digital conferences.
  **Characteristics:**  
 
-[ACCESSIBILITY GUIDANCE](categories/online_events/ACCESSIBILITY_GUIDANCE.md)
+[ACCESSIBILITY GUIDANCE](categories/online_events/ACCESSIBILITY_GUIDANCE.md) (needs content, please vote for [Issues](issues).)
 
-[IN TESTING](categories/online_events/IN_TESTING.md)
+[IN TESTING](categories/online_events/IN_TESTING.md) (submit witnessed practices through [Issues](issues).)
 
 [RAW COLLECTION OF IDEAS](categories/online_events/RAW_COLLECTION_OF_IDEAS.md)
 
@@ -48,9 +48,9 @@ Webinars, Online Meetups. Digital Learning Days. Digital conferences.
 All events that facilitate both online and offline speakers and attendees in a mix.  
  **Characteristics:**  We haven't seen enough of these events yet to find characteristics that are typical. But these events have live online participants as well as on-site participants. Ideally these two groups should be able to interact and mingle. Or at least both parties should be able to interact with the speakers equally during e.g. Q&A.
 
-[ACCESSIBILITY GUIDANCE](categories/hybrid_events/ACCESSIBILITY_GUIDANCE.md)
+[ACCESSIBILITY GUIDANCE](categories/hybrid_events/ACCESSIBILITY_GUIDANCE.md) (needs content, please vote for [Issues](issues).)
 
-[IN TESTING](categories/hybrid_events/IN_TESTING.md)
+[IN TESTING](categories/hybrid_events/IN_TESTING.md) (submit witnessed practices through [Issues](issues).)
 
 [RAW COLLECTION OF IDEAS](categories/hybrid_events/RAW_COLLECTION_OF_IDEAS.md)
 
