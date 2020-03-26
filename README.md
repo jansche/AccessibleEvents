@@ -32,7 +32,7 @@ Classic regional niche meetups. Classic broader-interest meetups on evenings. Sm
 
 👉🏽[IN TESTING](categories/in-person_events/IN_TESTING.md) (submit witnessed practices through [Issues](https://github.com/jansche/AccessibleEvents/issues).)
 
-👉🏽[RAW COLLECTION OF IDEAS](categories/in-person_events/RAW_COLLECTION_OF_IDEAS.md)
+👉🏽[RAW COLLECTION OF IDEAS](categories/in-person_events/RAW_COLLECTION_OF_IDEAS.md) (Brainstorming area. Feel free to PR to drop ideas here.)
 
 ### Online Events 
 Webinars, Online Meetups. Digital Learning Days. Digital conferences.
@@ -42,7 +42,7 @@ Webinars, Online Meetups. Digital Learning Days. Digital conferences.
 
 👉🏽[IN TESTING](categories/online_events/IN_TESTING.md) (submit witnessed practices through [Issues](https://github.com/jansche/AccessibleEvents/issues).)
 
-👉🏽[RAW COLLECTION OF IDEAS](categories/online_events/RAW_COLLECTION_OF_IDEAS.md)
+👉🏽[RAW COLLECTION OF IDEAS](categories/online_events/RAW_COLLECTION_OF_IDEAS.md) (Brainstorming area. Feel free to PR to drop ideas here.)
 
 ### Hybrid Events
 All events that facilitate both online and offline speakers and attendees in a mix.  
@@ -52,7 +52,7 @@ All events that facilitate both online and offline speakers and attendees in a m
 
 👉🏽[IN TESTING](categories/hybrid_events/IN_TESTING.md) (submit witnessed practices through [Issues](https://github.com/jansche/AccessibleEvents/issues).)
 
-👉🏽[RAW COLLECTION OF IDEAS](categories/hybrid_events/RAW_COLLECTION_OF_IDEAS.md)
+👉🏽[RAW COLLECTION OF IDEAS](categories/hybrid_events/RAW_COLLECTION_OF_IDEAS.md) (Brainstorming area. Feel free to PR to drop ideas here.)
 
 ## Definitions
 
