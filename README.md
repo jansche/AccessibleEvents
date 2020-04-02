@@ -26,9 +26,9 @@ Classic regional niche meetups. Classic broader-interest meetups on evenings. Sm
  **Breakout Sessions:** Rooms for breakout sessions limit the maximum occupancy, typically to max 200. Other characteristics are similar to medium-sized in-person events.  
  **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Maybe registration is free, like with many meetups.   
  **Breaks:** For evening events, there is often one break between sessions and a larger networking slot after the sessions. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).     
- **Food & Beverages:** Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#FoodAndBeverages). 
- **Swag/Give-Aways/Conference bags:** There's a whole culture around conference goodies. They could be from the conference itself, or from exhibitors or sponsors.
-  **Networking/Social Interaction:** One of the main selling points of in-person events is the opportunity to meet with like-minded people, make connections, re-establish one's network and make friends. Some events even go as far as calling their (annual) events a family re-union.
+ **Food & Beverages:** Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#FoodAndBeverages).  
+ **Swag/Give-Aways/Conference bags:** There's a whole culture around conference goodies. They could be from the conference itself, or from exhibitors or sponsors.  
+  **Networking/Social Interaction:** One of the main selling points of in-person events is the opportunity to meet with like-minded people, make connections, re-establish one's network and make friends. Some events even go as far as calling their (annual) events a family re-union.  
 
 
 👉🏽[ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md) (needs content, please vote for [Issues](https://github.com/jansche/AccessibleEvents/issues).)
@@ -43,9 +43,9 @@ Webinars, Online Meetups. Digital Learning Days. Digital conferences.
  **Keynotes:**   
  **Breakout Sessions:**  
  **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Often, registration will unlock the content for you, or you will receive an email with the link to use on the day of the event. Maybe registration is free, like with many meetups.   
- **Breaks:** During online events breaks are sometimes ommited, sometimes purposedly left to allow for a tech check with the next speaker, during which one or more hosts take Q&A, thank the speaker, and announce the next talk. Break slides can be used for event and sponsor comms. [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).
- **Swag/Give-Aways/Conference bags:** There's typically no Swag for digital attendees as of current. 
- **Networking/Social Interaction:** One of the biggest downsides of digital events compared to in-person events is the missing opportunity to have social interaction between attendees. 
+ **Breaks:** During online events breaks are sometimes ommited, sometimes purposedly left to allow for a tech check with the next speaker, during which one or more hosts take Q&A, thank the speaker, and announce the next talk. Break slides can be used for event and sponsor comms. [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).  
+ **Swag/Give-Aways/Conference bags:** There's typically no Swag for digital attendees as of current.   
+ **Networking/Social Interaction:** One of the biggest downsides of digital events compared to in-person events is the missing opportunity to have social interaction between attendees.  
   
 👉🏽[ACCESSIBILITY GUIDANCE](categories/online_events/ACCESSIBILITY_GUIDANCE.md) (needs content, please vote for [Issues](https://github.com/jansche/AccessibleEvents/issues).)
 
@@ -59,9 +59,9 @@ All events that facilitate both online and offline speakers and attendees in a m
  **Keynotes:** Speakers could partake in the event in-person, or remotely. Sometimes their talks are pre-recorded and they take Q&A live (and during the recording plays). A conference organizer will sometimes direct a camera at the audience so that the remote speaker can gauge the audience's feedback and energy level.   
  **Breakout Sessions:**  
  **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Maybe registration is free, like with many meetups.
- **Breaks:** During hybrid events breaks for the live audience and the remote audience will no doubt be very different. [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).
- **Swag/Give-Aways/Conference bags:** There's a gap between digital and in person participation when it comes to swag, as this is normally exclusive to in-person attendees. 
- **Networking/Social Interaction:** There's a gap between digital and in person participation when it comes to social interaction, as this is much easier and more natural at in-person events.
+ **Breaks:** During hybrid events breaks for the live audience and the remote audience will no doubt be very different. [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).  
+ **Swag/Give-Aways/Conference bags:** There's a gap between digital and in person participation when it comes to swag, as this is normally exclusive to in-person attendees.  
+ **Networking/Social Interaction:** There's a gap between digital and in person participation when it comes to social interaction, as this is much easier and more natural at in-person events.  
  
 👉🏽[ACCESSIBILITY GUIDANCE](categories/hybrid_events/ACCESSIBILITY_GUIDANCE.md) (needs content, please vote for [Issues](https://github.com/jansche/AccessibleEvents/issues).)
 
