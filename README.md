@@ -4,7 +4,7 @@
 How to extend and transform events to happen online, in parts or entirely, and provide a maximum of accessibility to attendees, online and on-site? This repo is intended as a knowledge base to help organisers make their events more accessible. It was started in times of COVID-19/coronavirus (March 2020), when many events were struggling with in-person participation and got cancelled due to the risk of infection and further spread of the virus. Nevertheless, this time of crisis is also an opportunity to make in-person events more accessible to remote attendees (digitally live) and post-event consumption (digitally on-demand) of content.
 
 ### Intention
-Many events lack accessibility in one way or the other. Some of these lackings are intentional, others are collateral and many are unintentional and due to unknowingness. This collection of tipps and guidance aims at providing insights and show paths to avoid unintentional exclusion and increase readiness and willingness among organisers to allow many forms of participation and contribution. This collection should ideally show you what it takes to extend in-person events to the digital space and vice versa, and why it's worth the effort. 
+Many events lack accessibility in one way or the other. Some of these lackings are intentional, others are collateral and many are unintentional and due to unknowingness. This collection of tips and guidance aims to provide insights, show paths to avoid unintentional exclusion, and increase readiness and willingness among organisers to allow many forms of participation and contribution. This collection should ideally show you what it takes to extend in-person events to the digital space and vice versa, and why it's worth the effort. 
 
 ### How To Contribute - Content
 If you are the owner, a contributor, member of staff or attendee (in-person or remote) of an event, please contribute by opening an [ISSUE](/issues) with the idea for increased accessibility. This [ISSUE](/issues) will then go into the RAW COLLECTION OF IDEAS of the [categorized event(s)](/categories). 
@@ -24,7 +24,7 @@ Classic regional niche meetups. Classic broader-interest meetups on evenings. Sm
  One or more keynotes or general sessions (multi-track conferences). Speaking slots are typically between 45 and 75 minutes. Venues are often multi-year contracted, thus giving attendees a recurring experience.   
  **Keynotes:** Presence of an (elevated) stage. Presentations are often complex and rehearsed. Speakers can move freely on stage and control slides individually through a remote control or have coordinated and rehearsed support.  
  **Breakout Sessions:** Rooms for breakout sessions limit the maximum occupancy, typically to max 200. Other characteristics are similar to medium-sized in-person events.  
- **Registration:**   
+ **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Maybe registration is free, like with many meetups.   
  **Breaks:** For evening events, there is often one break between sessions and a larger networking slot after the sessions. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).     
  **Food & Beverages:** Supply of food varies a lot between 'no food' and 'full meal', where a meal can be shared pizza, fingerfood and similar. Find features for accessibility in the corresponding section of this categories [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#FoodAndBeverages).  
 
@@ -36,7 +36,11 @@ Classic regional niche meetups. Classic broader-interest meetups on evenings. Sm
 
 ### Online Events 
 Webinars, Online Meetups. Digital Learning Days. Digital conferences.
- **Characteristics:**  
+ **Characteristics:**
+ **Keynotes:**   
+ **Breakout Sessions:**  
+ **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Often, registration will unlock the content for you, or you will receive an email with the link to use on the day of the event. Maybe registration is free, like with many meetups.   
+ **Breaks:** During online events breaks are sometimes ommited, sometimes purposedly left to allow for a tech check with the next speaker, during which one or more hosts take Q&A, thank the speaker, and announce the next talk. Break slides can be used for event and sponsor comms. [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).
 
 👉🏽[ACCESSIBILITY GUIDANCE](categories/online_events/ACCESSIBILITY_GUIDANCE.md) (needs content, please vote for [Issues](https://github.com/jansche/AccessibleEvents/issues).)
 
@@ -47,6 +51,10 @@ Webinars, Online Meetups. Digital Learning Days. Digital conferences.
 ### Hybrid Events
 All events that facilitate both online and offline speakers and attendees in a mix.  
  **Characteristics:**  We haven't seen enough of these events yet to find characteristics that are typical. But these events have live online participants as well as on-site participants. Ideally these two groups should be able to interact and mingle. Or at least both parties should be able to interact with the speakers equally during e.g. Q&A.
+ **Keynotes:** Speakers could partake in the event in-person, or remotely. Sometimes their talks are pre-recorded and they take Q&A live (and during the recording plays). A conference organizer will sometimes direct a camera at the audience so that the remote speaker can gauge the audience's feedback and energy level.   
+ **Breakout Sessions:**  
+ **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Maybe registration is free, like with many meetups.
+ **Breaks:** During hybrid events breaks for the live audience and the remote audience will no doubt be very different. [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).
 
 👉🏽[ACCESSIBILITY GUIDANCE](categories/hybrid_events/ACCESSIBILITY_GUIDANCE.md) (needs content, please vote for [Issues](https://github.com/jansche/AccessibleEvents/issues).)
 
