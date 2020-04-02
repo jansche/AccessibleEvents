@@ -17,10 +17,10 @@ As stated before, this repo was created in times of the coronavirus crisis, and 
 ---
 
 ## Main Categorization
-### In-Person Events
+### In-Person Events. 
 Classic regional niche meetups. Classic broader-interest meetups on evenings. Smaller one or two day conferences. Conferences, single and multi-track. Fairs, fair-like conferences, conventions.    
  **Characteristics:** Typically 2-3, sometimes 4 in-person speakers. Speaking slots are between 20 minutes and 1h. Venues are often chosen by availability. Presentation / live demos / video playback through laptop of presenter on projection wall or large display(s). Audio and display connectors vary, as room equipment allows. Seating options vary between theater style to workshop tables. Seldom grouped tables.  
- For meetups, typically 2-3, sometimes 4 in-person speakers. For single track conferences 5-7 per day. Multi-track confeences vary with speakers. Speaking slots on conferences are typically between 45 min and 75 min. Speaking slots on meetups are 20 min to 45 min. Venues are often chosen by availability, but tend to be recurring. Presentation / live demos / video playback through laptop of presenter on projection wall. Audio and display connectors vary, as room equipment allows. Seating options are theater style and seldom other than that.
+ For meetups, typically 2-3, sometimes 4 in-person speakers. For single track conferences 5-7 per day. Multi-track confeences vary with speakers. Speaking slots on conferences are typically between 45 min and 75 min. Speaking slots on meetups are 20 min to 45 min. Venues are often chosen by availability, but tend to be recurring. Presentation / live demos / video playback through laptop of presenter on projection wall. Audio and display connectors vary, as room equipment allows. Seating options are theater style and seldom other than that.  
  One or more keynotes or general sessions (multi-track conferences). Speaking slots are typically between 45 and 75 minutes. Venues are often multi-year contracted, thus giving attendees a recurring experience.   
  **Keynotes:** Presence of an (elevated) stage. Presentations are often complex and rehearsed. Speakers can move freely on stage and control slides individually through a remote control or have coordinated and rehearsed support.  
  **Breakout Sessions:** Rooms for breakout sessions limit the maximum occupancy, typically to max 200. Other characteristics are similar to medium-sized in-person events.  
@@ -39,9 +39,9 @@ Classic regional niche meetups. Classic broader-interest meetups on evenings. Sm
 
 ### Online Events 
 Webinars, Online Meetups. Digital Learning Days. Digital conferences.
- **Characteristics:**
- **Keynotes:**   
- **Breakout Sessions:**  
+ **Characteristics:**  
+ **Keynotes:**    
+ **Breakout Sessions:**   
  **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Often, registration will unlock the content for you, or you will receive an email with the link to use on the day of the event. Maybe registration is free, like with many meetups.   
  **Breaks:** During online events breaks are sometimes ommited, sometimes purposedly left to allow for a tech check with the next speaker, during which one or more hosts take Q&A, thank the speaker, and announce the next talk. Break slides can be used for event and sponsor comms. [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).  
  **Swag/Give-Aways/Conference bags:** There's typically no Swag for digital attendees as of current.   
@@ -54,11 +54,11 @@ Webinars, Online Meetups. Digital Learning Days. Digital conferences.
 👉🏽[RAW COLLECTION OF IDEAS](categories/online_events/RAW_COLLECTION_OF_IDEAS.md) (Brainstorming area. Feel free to PR to drop ideas here.)
 
 ### Hybrid Events
-All events that facilitate both online and offline speakers and attendees in a mix.  
- **Characteristics:**  We haven't seen enough of these events yet to find characteristics that are typical. But these events have live online participants as well as on-site participants. Ideally these two groups should be able to interact and mingle. Or at least both parties should be able to interact with the speakers equally during e.g. Q&A.
+All events that facilitate both online and offline speakers and attendees in a mix.   
+ **Characteristics:**  We haven't seen enough of these events yet to find characteristics that are typical. But these events have live online participants as well as on-site participants. Ideally these two groups should be able to interact and mingle. Or at least both parties should be able to interact with the speakers equally during e.g. Q&A.  
  **Keynotes:** Speakers could partake in the event in-person, or remotely. Sometimes their talks are pre-recorded and they take Q&A live (and during the recording plays). A conference organizer will sometimes direct a camera at the audience so that the remote speaker can gauge the audience's feedback and energy level.   
  **Breakout Sessions:**  
- **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Maybe registration is free, like with many meetups.
+ **Registration:** Registration is done via a 3rd party service, or own software with integrated payment solution. Maybe registration is free, like with many meetups.  
  **Breaks:** During hybrid events breaks for the live audience and the remote audience will no doubt be very different. [ACCESSIBILITY GUIDANCE](categories/in-person_events/ACCESSIBILITY_GUIDANCE.md#Breaks).  
  **Swag/Give-Aways/Conference bags:** There's a gap between digital and in person participation when it comes to swag, as this is normally exclusive to in-person attendees.  
  **Networking/Social Interaction:** There's a gap between digital and in person participation when it comes to social interaction, as this is much easier and more natural at in-person events.  
