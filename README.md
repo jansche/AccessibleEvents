@@ -1,6 +1,6 @@
 # Accessible Events
 
-## 🚨🚨🚨 Please vot for existing [Issues](https://github.com/jansche/AccessibleEvents/issues) (practices), so we can put them into our ACCESSIBILITY GUIDANCE docs. Please vote per 👍 for your favorite practices in [Issues](https://github.com/jansche/AccessibleEvents/issues)! THANKS! 🚨🚨🚨
+## 🚨🚨🚨 Please vote for existing [Issues](https://github.com/jansche/AccessibleEvents/issues) (practices), so we can put them into our ACCESSIBILITY GUIDANCE docs. Please vote per 👍 for your favorite practices in [Issues](https://github.com/jansche/AccessibleEvents/issues)! THANKS! 🚨🚨🚨
 
 
 ### Background
