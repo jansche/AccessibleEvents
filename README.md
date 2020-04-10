@@ -1,5 +1,8 @@
 # Accessible Events
 
+## 🚨🚨🚨 Please vot for existing [Issues](https://github.com/jansche/AccessibleEvents/issues) (practices), so we can put them into our ACCESSIBILITY GUIDANCE docs. Please vote per 👍 for your favorite practices in [Issues](https://github.com/jansche/AccessibleEvents/issues)! THANKS! 🚨🚨🚨
+
+
 ### Background
 How to extend and transform events to happen online, in parts or entirely, and provide a maximum of accessibility to attendees, online and on-site? This repo is intended as a knowledge base to help organisers make their events more accessible. It was started in times of COVID-19/coronavirus (March 2020), when many events were struggling with in-person participation and got cancelled due to the risk of infection and further spread of the virus. Nevertheless, this time of crisis is also an opportunity to make in-person events more accessible to remote attendees (digitally live) and post-event consumption (digitally on-demand) of content.
 
